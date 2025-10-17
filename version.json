@@ -2,5 +2,10 @@
   "versionCode": 3,
   "versionName": "1.1",
   "apkUrl": "https://raw.githubusercontent.com/abhijit-108/wifi-man/main/app-debug.apk",
-  "changelog": "new update available"
+   "changelog": [
+    "🔥 Added Bluetooth printing",
+    "📊 New Wi-Fi usage chart",
+    "⚡ Improved performance and minor bug fixes"
+  ]
 }
+
