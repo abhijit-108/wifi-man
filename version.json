@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 2,
   "latestVersionName": "2.1",
-  "apkUrl": "https://raw.githubusercontent.com/abhijit-108/wifi-man/main/app-debug.apk",
+  "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
   "releaseDate": "2025-10-17",
   "changelog": [
     "🔥 Added one more default endpoint",
