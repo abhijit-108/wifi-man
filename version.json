@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
+  "versionCode": 3,
   "versionName": "1.1",
   "apkUrl": "https://raw.githubusercontent.com/abhijit-108/wifi-man/main/app-debug.apk",
-  "changelog": "Updated with in-app update system"
+  "changelog": "new update available"
 }
