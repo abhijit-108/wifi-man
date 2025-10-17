@@ -1,35 +1,20 @@
 {
-  "versions": [
-    {
-      "latestVersionCode": 2,
-      "latestVersionName": "2.1",
-      "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-      "releaseDate": "2025-10-17",
-      "changelog": [
-        "🔥 Added one more default endpoint",
-        "🔥 Added auto update features",
-        "🔥 Added + button to add endpoints",
-        "🔥 App is floating window compatible",
-        "🔥 Added active/total device numbers",
-        "🔥 Added more endpoints",
-        "📊 log-box fixed",
-        "📊 proper error toast",
-        "⚡ Improved performance 😂",
-        "⚡ wifi speed 1000 GBps 😂"
-      ],
-      "mandatory": false
-    },
-    {
-      "latestVersionCode": 1,
-      "latestVersionName": "2.0",
-      "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug-v1.apk",
-      "releaseDate": "2025-10-10",
-      "changelog": [
-        "🛠️ Initial release",
-        "📶 Wi-Fi device manager added",
-        "📊 Usage chart introduced"
-      ],
-      "mandatory": false
-    }
-  ]
+  "latestVersionCode": 2,
+  "latestVersionName": "2.1",
+  "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
+  "releaseDate": "2025-10-17",
+  "changelog": [
+    "🔥 Added one more default endpoint",
+    "🔥 Added auto update features",
+    "🔥 Added + button to add endpoints",
+    "🔥 App is flaoting window compatible",
+    "🔥 Added active/total device numbers",
+    "🔥 Added more endpoints ",
+    "📊 log-box fixed",
+    "📊 proper error toast",
+    "📊 log-box fixed",
+    "⚡ Improved performance 😂",
+    "⚡ wifi speed 1000 GBps 😂"
+  ],
+  "mandatory": false
 }
