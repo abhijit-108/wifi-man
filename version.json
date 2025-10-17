@@ -1,12 +1,15 @@
 {
   "latestVersionCode": 5,
-  "latestVersionName": "2.1.0",
+  "latestVersionName": "1.2",
   "apkUrl": "https://raw.githubusercontent.com/abhijit-108/wifi-man/main/app-debug.apk",
-  "releaseDate": "2025-10-16",
+  "releaseDate": "2025-10-17",
   "changelog": [
-    "🔥 Added Bluetooth printing",
-    "📊 New Wi-Fi usage chart",
+    "🔥 Added auto update features",
+    "🔥 Added active/total device numbers",
+    "🔥 Added more endpoints with with proper eror handeling",
+    "📊 log-box fixed",
+    "📊 log-box fixed",
     "⚡ Improved performance and minor bug fixes"
   ],
-  "mandatory": false
+  "mandatory": true
 }
