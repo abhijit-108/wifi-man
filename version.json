@@ -1,10 +1,10 @@
 {
   "latestVersionCode": 3,
-  "latestVersionName": "3.1.1",
+  "latestVersionName": "3.1.2",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
   "releaseDate": "2025-10-17",
   "changelog": [
-    "🔥 make the screen-on infinitely"
+    "🔥 Test update no real update"
     
   ],
   "mandatory": true
