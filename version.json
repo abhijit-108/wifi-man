@@ -1,11 +1,11 @@
 {
-  "latestVersionCode": 3.1,
-  "latestVersionName": "3.1.2",
+  "latestVersionCode": 4,
+  "latestVersionName": "4.0.0",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
   "releaseDate": "2025-10-17",
   "changelog": [
     "🔥 Test update no real update"
     
   ],
-  "mandatory": true
+  "mandatory": false
 }
