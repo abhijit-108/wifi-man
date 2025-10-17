@@ -1,20 +1,11 @@
 {
   "latestVersionCode": 2,
-  "latestVersionName": "2.1",
+  "latestVersionName": "2.2",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
   "releaseDate": "2025-10-17",
   "changelog": [
-    "🔥 Added one more default endpoint",
-    "🔥 Added auto update features",
-    "🔥 Added + button to add endpoints",
-    "🔥 App is flaoting window compatible",
-    "🔥 Added active/total device numbers",
-    "🔥 Added more endpoints ",
-    "📊 log-box fixed",
-    "📊 proper error toast",
-    "📊 log-box fixed",
-    "⚡ Improved performance 😂",
-    "⚡ wifi speed 1000 GBps 😂"
+    "🔥 All make the screer-on infinitely"
+    
   ],
-  "mandatory": false
+  "mandatory": true
 }
