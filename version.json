@@ -1,14 +1,10 @@
 {
   "latestVersionCode": 3,
-  "latestVersionName": "3.1.2",
+  "latestVersionName": "3.1.3",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2025-10-17",
+  "releaseDate": "2025-10-18",
   "changelog": [
-    "🔥add faster decision logic",
-    "⚡fixed dark mode look for update",
-    "⚡fixed already updated toast",
-    "⚡fixed Button design in update-card",
-    "❌ count all users are wrong for now"
+    "⚡fixed auto-roatation crash"
   ],
   "mandatory": true
 }
