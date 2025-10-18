@@ -6,5 +6,5 @@
   "changelog": [
     "⚡fixed auto-roatation crash"
   ],
-  "mandatory": true
+  "mandatory": false
 }
