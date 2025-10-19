@@ -1,4 +1,24 @@
-## Version 2.1 – October 17, 2025
+## Version 3.1.4 – October 18, 2025
+
+**New Features**
+- Admin WebView for router management
+- Speed Test functionality
+- Data Usage monitoring
+
+**Improvements**
+- Fixed auto-rotation crash
+- Fixed dark-mode switch crash
+
+**Upcoming Features**
+- Event notifications (game mode, night mode)
+- Local voice calling on same network
+
+**Known Issues**
+- Cannot update if on v3.1.2 (will work from v3.1.3)
+
+---
+
+## Version 3.1.1 – October 17, 2025
 
 **New Features**
 - Auto-update functionality
@@ -12,14 +32,11 @@
 - Fixed log box display
 - Enhanced error notifications
 - Performance optimizations
-- UI/UX refinements
-
-**Known Issues**
-- Wi-Fi speed display shows 1000 GBps (placeholder)
+- UI/UX refinement
 
 ---
 
-## Version 2.0 – October 10, 2025
+## Version 2.0 – October 16, 2025
 
 **New Features**
 - Wi-Fi device manager
@@ -31,7 +48,7 @@
 
 ---
 
-## Version 1.0 – October 3, 2025
+## Version 1.0 – October 16, 2025
 
 **Initial Release**
 - Core UI implementation
