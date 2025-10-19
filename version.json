@@ -1,11 +1,11 @@
 {
   "latestVersionCode": 3,
-  "latestVersionName": "3.1.5",
+  "latestVersionName": "3.1.6",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2025-10-18",
+  "releaseDate": "2025-10-19",
   "changelog": [
-    "⚡ FIXED: The button test padding now all Good",
-    "⚡ FIXED: Back button on webview got better"
+    "⚡ FIXED: The chnagelog screen optimized",
+    "⚡ FIXED: the header-alignment is fixed now"
   ],
   "mandatory": false
 }

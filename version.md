@@ -1,12 +1,21 @@
+## Version 3.1.6 – October 19, 2025
+
+**Improvements**
+- The version changelog screen all optimized now
+- Header is fixed now
+
+**Upcoming Features**
+- Event notifications (game mode, night mode)
+- Local voice calling on same network
+
+---
+
 ## Version 3.1.5 – October 18, 2025
 
 **Improvements**
 - The button test padding now all Good
 - Back button on webview got better
 
-**Upcoming Features**
-- Event notifications (game mode, night mode)
-- Local voice calling on same network
 
 ---
 
@@ -21,13 +30,11 @@
 - Fixed auto-rotation crash
 - Fixed dark-mode switch crash
 
-**Upcoming Features**
-- Event notifications (game mode, night mode)
-- Local voice calling on same network
 
 **Known Issues**
 - Cannot update if on v3.1.2 (will work from v3.1.3)
 - Must Uninstall first if you are on v3.1.3 or below
+
 ---
 
 ## Version 3.1.1 – October 17, 2025
