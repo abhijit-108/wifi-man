@@ -6,7 +6,9 @@
   "changelog": [
     "⚡fixed auto-roatation crash",
     "⚡fixed dark-mode switch crash",
-    "⚠️update allowed only if you are on v3.1.2"
+    "⚠️cannot update if on v3.1.2",
+    "will be ok from v3.1.3"
+
   ],
   "mandatory": false
 }
