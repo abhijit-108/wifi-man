@@ -10,6 +10,8 @@
 - Floating-window compatible  
 - Active / total device numbers added  
 - Added more endpoints  
+- ⚠️update allowed only if you are on v3.1.2
+
 
 ### 🛠️ Fixes & Improvements
 - Log-box fixed  
