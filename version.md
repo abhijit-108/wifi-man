@@ -1,37 +1,39 @@
-# 🚀 WiFi-Man – Version History
+## Version 2.1 – October 17, 2025
+
+**New Features**
+- Auto-update functionality
+- Additional default endpoints
+- Add endpoint button (➕)
+- Floating window support
+- Active/total device counter
+- Update restriction (requires v3.1.2)
+
+**Improvements**
+- Fixed log box display
+- Enhanced error notifications
+- Performance optimizations
+- UI/UX refinements
+
+**Known Issues**
+- Wi-Fi speed display shows 1000 GBps (placeholder)
 
 ---
 
-## 🆕 v2.1 (2025-10-17)
-### 🔥 New Features
-- Added one more default endpoint  
-- Added auto-update feature  
-- Added ➕ button to add endpoints  
-- Floating-window compatible  
-- Active / total device numbers added  
-- Added more endpoints  
-- ⚠️update allowed only if you are on v3.1.2
+## Version 2.0 – October 10, 2025
 
+**New Features**
+- Wi-Fi device manager
+- Usage chart visualization
+- Activity logging system
 
-### 🛠️ Fixes & Improvements
-- Log-box fixed  
-- Proper error toasts  
-- Performance improved ⚡  
-- Wi-Fi speed 1000 GBps 😂  
+**Notes**
+- Initial public release
 
 ---
 
-## 🧩 v2.0 (2025-10-10)
-### ✨ Changes
-- Initial public release  
-- Added Wi-Fi device manager  
-- Added usage chart view  
-- Basic logging system  
+## Version 1.0 – October 3, 2025
 
----
-
-## 🪄 v1.0 (2025-10-03)
-### 🧱 Foundation
-- First internal build  
-- Core UI and Wi-Fi listing  
-- Basic scan/connect feature
+**Initial Release**
+- Core UI implementation
+- Wi-Fi network listing
+- Basic scan and connect functionality
