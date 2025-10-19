@@ -1,12 +1,21 @@
+## Version 3.1.7 – October 19, 2025
+
+**Improvements**
+- App Icon updated
+
+
+**Upcoming Features**
+- Event notifications (game mode, night mode)
+- Local voice calling on same network
+
+---
+
 ## Version 3.1.6 – October 19, 2025
 
 **Improvements**
 - The version changelog screen all optimized now
 - Header is fixed now
 
-**Upcoming Features**
-- Event notifications (game mode, night mode)
-- Local voice calling on same network
 
 ---
 
