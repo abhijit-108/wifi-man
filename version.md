@@ -1,3 +1,15 @@
+## Version 3.1.5 – October 18, 2025
+
+**Improvements**
+- The button test padding now all Good
+- Back button on webview got better
+
+**Upcoming Features**
+- Event notifications (game mode, night mode)
+- Local voice calling on same network
+
+---
+
 ## Version 3.1.4 – October 18, 2025
 
 **New Features**
