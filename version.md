@@ -15,7 +15,7 @@
 
 **Known Issues**
 - Cannot update if on v3.1.2 (will work from v3.1.3)
-
+- Must Uninstall first if you are on v3.1.3 or below
 ---
 
 ## Version 3.1.1 – October 17, 2025
