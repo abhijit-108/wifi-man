@@ -1,8 +1,7 @@
-## Version 3.1.7 – October 19, 2025
+## v3.1.8 – Oct 20, 2025 10:10 am
 
-**Improvements**
-- App Icon updated
-
+**New Features**
+- Sidebar now available
 
 **Upcoming Features**
 - Event notifications (game mode, night mode)
@@ -10,25 +9,30 @@
 
 ---
 
-## Version 3.1.6 – October 19, 2025
+## v3.1.7 – Oct 19, 2025 10:10 am
 
 **Improvements**
-- The version changelog screen all optimized now
+- App icon updated
+
+---
+
+## v3.1.6 – Oct 19, 2025 10:10 am
+
+**Improvements**
+- Version changelog screen all optimized now
 - Header is fixed now
 
-
 ---
 
-## Version 3.1.5 – October 18, 2025
+## v3.1.5 – Oct 18, 2025 10:10 am
 
 **Improvements**
-- The button test padding now all Good
+- Button text padding now all good
 - Back button on webview got better
-
 
 ---
 
-## Version 3.1.4 – October 18, 2025
+## v3.1.4 – Oct 18, 2025 10:10 am
 
 **New Features**
 - Admin WebView for router management
@@ -39,14 +43,13 @@
 - Fixed auto-rotation crash
 - Fixed dark-mode switch crash
 
-
 **Known Issues**
 - Cannot update if on v3.1.2 (will work from v3.1.3)
-- Must Uninstall first if you are on v3.1.3 or below
+- Must uninstall first if you are on v3.1.3 or below
 
 ---
 
-## Version 3.1.1 – October 17, 2025
+## v3.1.1 – Oct 17, 2025 10:10 am
 
 **New Features**
 - Auto-update functionality
@@ -64,7 +67,7 @@
 
 ---
 
-## Version 2.0 – October 16, 2025
+## v2.0 – Oct 16, 2025 10:10 am
 
 **New Features**
 - Wi-Fi device manager
@@ -76,7 +79,7 @@
 
 ---
 
-## Version 1.0 – October 16, 2025
+## v1.0 – Oct 16, 2025 10:10 am
 
 **Initial Release**
 - Core UI implementation
