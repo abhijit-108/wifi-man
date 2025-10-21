@@ -1,55 +1,75 @@
-## v3.1.8 – Oct 20, 2025 10:10 am
+## v3.1.9 – Oct 21, 2025 09:31 am
+
+**New Features**
+- App info panel now available
+- Game Mode added (10:00 pm – 12:30 am)
+**Improvements**
+- All users are now visible to everyone
+- Event notifications added for Game Mode
+**Known Issues**
+- If users are not visible, clear all app data
+
+**Upcoming Features**
+- Ability to enable Game Mode for 1 hour (duration may vary)
+- Temporarily kick a user
+- Local voice calling on the same network
+
+---
+
+## v3.1.8 – Oct 20, 2025 11:10 am
 
 **New Features**
 - Sidebar now available
 
 **Upcoming Features**
-- Event notifications (game mode, night mode)
-- Local voice calling on same network
+- Ability to enable Game Mode for 1 hour (duration may vary)
+- Temporarily kick a user
+- Event notifications (Game Mode, Night Mode)
+- Local voice calling on the same network
 
 ---
 
-## v3.1.7 – Oct 19, 2025 10:10 am
+## v3.1.7 – Oct 19, 2025 09:10 pm
 
 **Improvements**
 - App icon updated
 
 ---
 
-## v3.1.6 – Oct 19, 2025 10:10 am
+## v3.1.6 – Oct 19, 2025 12:10 am
 
 **Improvements**
-- Version changelog screen all optimized now
-- Header is fixed now
+- Version changelog screen optimized
+- Header is now fixed
 
 ---
 
-## v3.1.5 – Oct 18, 2025 10:10 am
+## v3.1.5 – Oct 18, 2025 01:10 am
 
 **Improvements**
-- Button text padding now all good
-- Back button on webview got better
+- Button text padding fixed
+- Back button on WebView improved
 
 ---
 
-## v3.1.4 – Oct 18, 2025 10:10 am
+## v3.1.4 – Oct 18, 2025 12:10 am
 
 **New Features**
 - Admin WebView for router management
 - Speed Test functionality
-- Data Usage monitoring
+- Data usage monitoring
 
 **Improvements**
 - Fixed auto-rotation crash
 - Fixed dark-mode switch crash
 
 **Known Issues**
-- Cannot update if on v3.1.2 (will work from v3.1.3)
-- Must uninstall first if you are on v3.1.3 or below
+- Cannot update from v3.1.2 (will work from v3.1.3)
+- Must uninstall first if you are on v3.1.3 or earlier
 
 ---
 
-## v3.1.1 – Oct 17, 2025 10:10 am
+## v3.1.1 – Oct 17, 2025 08:30 am
 
 **New Features**
 - Auto-update functionality
@@ -67,7 +87,7 @@
 
 ---
 
-## v2.0 – Oct 16, 2025 10:10 am
+## v2.0 – Oct 16, 2025 12:10 am
 
 **New Features**
 - Wi-Fi device manager
@@ -79,7 +99,7 @@
 
 ---
 
-## v1.0 – Oct 16, 2025 10:10 am
+## v1.0 – Oct 16, 2025 01:10 am
 
 **Initial Release**
 - Core UI implementation
