@@ -1,7 +1,7 @@
-## v3.2.0 – Oct 21, 2025 11:31 am
+## v3.2.2 – Oct 21, 2025 01:05 pm
 
-**New Features**
-- Add current device wifi signal strength beside the App-Title
+**Improvements**
+- Skipping logic and refresh logic now on point
 
 **Known Issues**
 - If users are not visible, clear all app data
@@ -10,6 +10,14 @@
 - Ability to enable Game Mode for 1 hour (duration may vary)
 - Temporarily kick a user
 - Local voice calling on the same network
+
+---
+
+## v3.2.0 – Oct 21, 2025 11:31 am
+
+**New Features**
+- Add current device wifi signal strength beside the App-Title
+
 
 ---
 
