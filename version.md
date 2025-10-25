@@ -1,126 +1,136 @@
+## v3.2.3 – Oct 21, 2025 08:15 pm
+
+**New Features**
+- Add Reload for the webview
+
+**Improvements**
+- Enhanced Dark-Mode for About-info
+
+**Known Issues**
+- User visibility issues can be resolved by clearing App-Data
+
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+
+---
+
 ## v3.2.2 – Oct 21, 2025 01:05 pm
 
 **Improvements**
-- Skipping logic and refresh logic now on point
-
-**Known Issues**
-- If users are not visible, clear all app data
-
-**Upcoming Features**
-- Ability to enable Game Mode for 1 hour (duration may vary)
-- Temporarily kick a user
-- Local voice calling on the same network
+- Enhanced skipping and refresh logic for better reliability
 
 ---
 
 ## v3.2.0 – Oct 21, 2025 11:31 am
 
 **New Features**
-- Add current device wifi signal strength beside the App-Title
-
+- WiFi signal strength indicator added next to app title
 
 ---
 
 ## v3.1.9 – Oct 21, 2025 09:31 am
 
 **New Features**
-- App info panel now available
-- Game Mode added (10:00 pm – 12:30 am)
-**Improvements**
-- All users are now visible to everyone
-- Event notifications added for Game Mode
-**Known Issues**
-- If users are not visible, clear all app data
+- App information panel
+- Game Mode scheduling (10:00 pm – 12:30 am)
 
+**Improvements**
+- Full user visibility across all devices
+- Game Mode event notifications
+
+**Known Issues**
+- Clear app data if users aren't displaying correctly
 
 ---
 
 ## v3.1.8 – Oct 20, 2025 11:10 am
 
 **New Features**
-- Sidebar now available
+- Navigation sidebar introduced
 
-**Upcoming Features**
-- Ability to enable Game Mode for 1 hour (duration may vary)
-- Temporarily kick a user
-- Event notifications (Game Mode, Night Mode)
-- Local voice calling on the same network
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Event notifications for Game Mode and Night Mode
+- Local voice calls over the same network
 
 ---
 
 ## v3.1.7 – Oct 19, 2025 09:10 pm
 
 **Improvements**
-- App icon updated
+- Refreshed app icon design
 
 ---
 
 ## v3.1.6 – Oct 19, 2025 12:10 am
 
 **Improvements**
-- Version changelog screen optimized
-- Header is now fixed
+- Optimized changelog display
+- Fixed header positioning
 
 ---
 
 ## v3.1.5 – Oct 18, 2025 01:10 am
 
 **Improvements**
-- Button text padding fixed
-- Back button on WebView improved
+- Corrected button text spacing
+- Enhanced WebView back navigation
 
 ---
 
 ## v3.1.4 – Oct 18, 2025 12:10 am
 
 **New Features**
-- Admin WebView for router management
-- Speed Test functionality
-- Data usage monitoring
+- Router management through admin WebView
+- Built-in speed testing
+- Data usage tracking
 
 **Improvements**
-- Fixed auto-rotation crash
-- Fixed dark-mode switch crash
+- Resolved auto-rotation crashes
+- Fixed dark mode toggle stability
 
 **Known Issues**
-- Cannot update from v3.1.2 (will work from v3.1.3)
-- Must uninstall first if you are on v3.1.3 or earlier
+- Direct update from v3.1.2 not supported (v3.1.3+ required)
+- Clean installation required for v3.1.3 and earlier versions
 
 ---
 
 ## v3.1.1 – Oct 17, 2025 08:30 am
 
 **New Features**
-- Auto-update functionality
-- Additional default endpoints
-- Add endpoint button (➕)
-- Floating window support
-- Active/total device counter
-- Update restriction (requires v3.1.2)
+- Automatic update system
+- Expanded default endpoint options
+- Quick endpoint addition button (➕)
+- Floating window mode
+- Active/total device statistics
+- Update validation (requires v3.1.2+)
 
 **Improvements**
-- Fixed log box display
-- Enhanced error notifications
-- Performance optimizations
-- UI/UX refinement
+- Corrected log display rendering
+- Better error messaging
+- Optimized performance across the board
+- Refined user interface
 
 ---
 
 ## v2.0 – Oct 16, 2025 12:10 am
 
 **New Features**
-- Wi-Fi device manager
-- Usage chart visualization
-- Activity logging system
+- WiFi device management dashboard
+- Visual usage charts
+- Comprehensive activity logs
 
 **Notes**
-- Initial public release
+- First public release
 
 ---
 
 ## v1.0 – Oct 16, 2025 01:10 am
 
 **Initial Release**
-- Core UI implementation
-- Wi-Fi network listing
-- Basic scan and connect functionality
+- Foundation UI framework
+- WiFi network discovery
+- Basic scanning and connection features
