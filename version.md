@@ -1,10 +1,7 @@
-## v3.2.3 – Oct 21, 2025 08:15 pm
-
-**New Features**
-- Add Reload for the webview
+## v3.2.4 – Oct 27, 2025 02:15 pm
 
 **Improvements**
-- Enhanced Dark-Mode for About-info
+- Fixed the reload mode , now with button
 
 **Known Issues**
 - User visibility issues can be resolved by clearing App-Data
@@ -13,6 +10,16 @@
 - Configurable Game Mode duration (approximately 1 hour)
 - Temporary user kick functionality
 - Local voice calls over the same network
+
+---
+
+## v3.2.3 – Oct 21, 2025 08:15 pm
+
+**New Features**
+- Add Reload for the webview
+
+**Improvements**
+- Enhanced Dark-Mode for About-info
 
 ---
 
