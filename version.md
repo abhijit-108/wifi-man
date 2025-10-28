@@ -1,7 +1,8 @@
-## v3.2.4 – Oct 27, 2025 02:15 pm
+## v3.2.5 – Oct 28, 2025 10:15 pm
 
 **Improvements**
-- Fixed the reload mode , now with button
+- fixed relaod-button not working
+- Added more endpoints(default)
 
 **Known Issues**
 - User visibility issues can be resolved by clearing App-Data
@@ -10,6 +11,14 @@
 - Configurable Game Mode duration (approximately 1 hour)
 - Temporary user kick functionality
 - Local voice calls over the same network
+
+---
+
+
+## v3.2.4 – Oct 27, 2025 02:15 pm
+
+**Improvements**
+- Fixed the reload mode , now with button
 
 ---
 

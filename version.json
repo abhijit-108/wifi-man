@@ -1,10 +1,12 @@
 {
   "latestVersionCode": 3,
-  "latestVersionName": "3.2.4",
+  "latestVersionName": "3.2.5",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2025-10-27",
+  "releaseDate": "2025-10-28",
   "changelog": [
-    "⚡Fixed the relaod , now using a button"
+    "⚡fixed relaod-button not working",
+    "⚡Added more endpoints(default)"
+
   ],
   "mandatory": false
 }
