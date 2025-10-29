@@ -1,8 +1,7 @@
-## v3.2.5 – Oct 28, 2025 10:15 pm
+## v3.2.6 – Oct 29, 2025 01:15 pm
 
-**Improvements**
-- fixed relaod-button not working
-- Added more endpoints(default)
+**New Features**
+- Alliance control added with desktop mode forced
 
 **Known Issues**
 - User visibility issues can be resolved by clearing App-Data
@@ -11,6 +10,16 @@
 - Configurable Game Mode duration (approximately 1 hour)
 - Temporary user kick functionality
 - Local voice calls over the same network
+- Sound on connect and disconnect events...
+
+---
+
+
+## v3.2.5 – Oct 28, 2025 10:15 pm
+
+**Improvements**
+- fixed relaod-button not working
+- Added more endpoints(default)
 
 ---
 
