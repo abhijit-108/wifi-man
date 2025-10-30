@@ -1,7 +1,18 @@
-## v3.2.6 – Oct 29, 2025 01:15 pm
+## v3.2.7 – Oct 30, 2025 08:00 pm
 
 **New Features**
-- Alliance control added with desktop mode forced
+- Voice command support for all WiFi controls
+- Voice-controlled network speed limits (max 70Mbps)
+- Voice-activated status dashboard
+- Multi-endpoint support for better reliability
+- Enforced maximum speed limit of 70Mbps for all networks
+
+**Improvements**
+- Enhanced voice command recognition
+- More intuitive voice feedback
+- Better error handling for voice commands
+- Visual feedback during voice recognition
+- Client-side validation for speed limits
 
 **Known Issues**
 - User visibility issues can be resolved by clearing App-Data
@@ -10,7 +21,13 @@
 - Configurable Game Mode duration (approximately 1 hour)
 - Temporary user kick functionality
 - Local voice calls over the same network
-- Sound on connect and disconnect events...
+- Sound on connect and disconnect events
+
+## v3.2.6 – Oct 29, 2025 01:15 pm
+
+**New Features**
+- Alliance control added with desktop mode forced
+
 
 ---
 
