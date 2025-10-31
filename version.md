@@ -1,4 +1,26 @@
-## v3.2.7 – Oct 30, 2025 08:00 pm
+## v3.2.8 – October 31, 2025, 8:00 PM
+
+**New Features & Improvements**
+- New: Real-time device connection notifications
+- New: Usage duration tracking per connected device
+- New: Notification channel added for Android 8.0+ support
+- New: Notification permission request for Android 13+
+- Improved: Skips notifications during initial data load
+- Improved: Notification content with hostname, IP, MAC & station name
+- Fixed: Crash when hostname/IP unavailable
+
+**Known Issues**
+- User visibility issues can be resolved by clearing app data
+
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound on connect and disconnect events
+
+---
+
+## v3.2.7 – October 30, 2025, 8:00 PM
 
 **New Features**
 - Voice command support for all WiFi controls
@@ -14,69 +36,59 @@
 - Visual feedback during voice recognition
 - Client-side validation for speed limits
 
-**Known Issues**
-- User visibility issues can be resolved by clearing App-Data
+---
 
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound on connect and disconnect events
-
-## v3.2.6 – Oct 29, 2025 01:15 pm
+## v3.2.6 – October 29, 2025, 1:15 PM
 
 **New Features**
 - Alliance control added with desktop mode forced
 
-
 ---
 
-
-## v3.2.5 – Oct 28, 2025 10:15 pm
+## v3.2.5 – October 28, 2025, 10:15 PM
 
 **Improvements**
-- fixed relaod-button not working
-- Added more endpoints(default)
+- Fixed reload button not working
+- Added more endpoints (default)
 
 ---
 
-
-## v3.2.4 – Oct 27, 2025 02:15 pm
+## v3.2.4 – October 27, 2025, 2:15 PM
 
 **Improvements**
-- Fixed the reload mode , now with button
+- Fixed the reload mode, now with button
 
 ---
 
-## v3.2.3 – Oct 21, 2025 08:15 pm
+## v3.2.3 – October 21, 2025, 8:15 PM
 
 **New Features**
-- Add Reload for the webview
+- Added reload for the WebView
 
 **Improvements**
-- Enhanced Dark-Mode for About-info
+- Enhanced dark mode for about info
 
 ---
 
-## v3.2.2 – Oct 21, 2025 01:05 pm
+## v3.2.2 – October 21, 2025, 1:05 PM
 
 **Improvements**
 - Enhanced skipping and refresh logic for better reliability
 
 ---
 
-## v3.2.0 – Oct 21, 2025 11:31 am
+## v3.2.0 – October 21, 2025, 11:31 AM
 
 **New Features**
 - WiFi signal strength indicator added next to app title
 
 ---
 
-## v3.1.9 – Oct 21, 2025 09:31 am
+## v3.1.9 – October 21, 2025, 9:31 AM
 
 **New Features**
 - App information panel
-- Game Mode scheduling (10:00 pm – 12:30 am)
+- Game Mode scheduling (10:00 PM – 12:30 AM)
 
 **Improvements**
 - Full user visibility across all devices
@@ -87,7 +99,7 @@
 
 ---
 
-## v3.1.8 – Oct 20, 2025 11:10 am
+## v3.1.8 – October 20, 2025, 11:10 AM
 
 **New Features**
 - Navigation sidebar introduced
@@ -100,14 +112,14 @@
 
 ---
 
-## v3.1.7 – Oct 19, 2025 09:10 pm
+## v3.1.7 – October 19, 2025, 9:10 PM
 
 **Improvements**
 - Refreshed app icon design
 
 ---
 
-## v3.1.6 – Oct 19, 2025 12:10 am
+## v3.1.6 – October 19, 2025, 12:10 AM
 
 **Improvements**
 - Optimized changelog display
@@ -115,7 +127,7 @@
 
 ---
 
-## v3.1.5 – Oct 18, 2025 01:10 am
+## v3.1.5 – October 18, 2025, 1:10 AM
 
 **Improvements**
 - Corrected button text spacing
@@ -123,7 +135,7 @@
 
 ---
 
-## v3.1.4 – Oct 18, 2025 12:10 am
+## v3.1.4 – October 18, 2025, 12:10 AM
 
 **New Features**
 - Router management through admin WebView
@@ -140,7 +152,7 @@
 
 ---
 
-## v3.1.1 – Oct 17, 2025 08:30 am
+## v3.1.1 – October 17, 2025, 8:30 AM
 
 **New Features**
 - Automatic update system
@@ -158,7 +170,7 @@
 
 ---
 
-## v2.0 – Oct 16, 2025 12:10 am
+## v2.0 – October 16, 2025, 12:10 AM
 
 **New Features**
 - WiFi device management dashboard
@@ -170,7 +182,7 @@
 
 ---
 
-## v1.0 – Oct 16, 2025 01:10 am
+## v1.0 – October 16, 2025, 1:10 AM
 
 **Initial Release**
 - Foundation UI framework
