@@ -1,16 +1,11 @@
 {
   "latestVersionCode": 3,
-  "latestVersionName": "3.2.8",
+  "latestVersionName": "3.2.9",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2025-10-31",
+  "releaseDate": "2025-11-01",
    "changelog": [
-    "New: Real-time device connection notifications",
-    "New: Usage duration tracking per connected device",
-    "New: Notification channel added for Android 8.0+ support",
-    "New: Notification permission request for Android 13+",
-    "Improved: Skips notifications during initial data load",
-    "Improved: Notification content with hostname, IP, MAC & station name",
-    "Fixed: Crash when hostname/IP unavailable"
+    "All endpoints are alined properly",
+    "clear-all app-data if users are not visible"
   ],
-  "mandatory": false
+  "mandatory": true
 }

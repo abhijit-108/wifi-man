@@ -1,3 +1,19 @@
+## v3.2.9 – November 1, 2025, 6:00 PM
+
+**New Features & Improvements**
+- All endpoints are properly aligned
+**Known Issues**
+- User visibility issues can be resolved by clearing app data
+
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound on connect and disconnect events
+
+---
+
+
 ## v3.2.8 – October 31, 2025, 8:00 PM
 
 **New Features & Improvements**
@@ -9,14 +25,6 @@
 - Improved: Notification content with hostname, IP, MAC & station name
 - Fixed: Crash when hostname/IP unavailable
 
-**Known Issues**
-- User visibility issues can be resolved by clearing app data
-
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound on connect and disconnect events
 
 ---
 
