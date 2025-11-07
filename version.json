@@ -7,5 +7,5 @@
       "Fix : All user Now visible to all",
       "Clear-all app data to see the changes"
     ],
-  "mandatory": true
+  "mandatory": false
 }
