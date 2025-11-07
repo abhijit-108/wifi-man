@@ -1,10 +1,7 @@
-## v3.3.1 – November 5, 2025, 8:00 PM
+## v3.3.2 – November 7, 2025, 11:00 AM
 
 **New Features & Improvements**
-- Current device wifi signal info no places with detailed stats
-- Autometically remove speed limit when I am not Home
-- Wait for 60 sec to remove speed-limit but re-enforce time is 10 sec if I am Home
-- Footer added on sidebar @copyright
+- Endpoint, conneted time cooldown
 **Known Issues**
 - User visibility issues can be resolved by clearing app data
 
@@ -13,6 +10,17 @@
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound on connect and disconnect events
+
+---
+
+
+## v3.3.1 – November 5, 2025, 8:00 PM
+
+**New Features & Improvements**
+- Current device wifi signal info no places with detailed stats
+- Autometically remove speed limit when I am not Home
+- Wait for 60 sec to remove speed-limit but re-enforce time is 10 sec if I am Home
+- Footer added on sidebar @copyright
 
 ---
 
