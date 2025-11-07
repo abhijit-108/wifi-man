@@ -1,7 +1,8 @@
-## v3.3.2 – November 7, 2025, 11:00 AM
+## v3.3.4 – November 7, 2025, 06:00 PM
 
 **New Features & Improvements**
-- Endpoint, conneted time cooldown
+- Fix : Logs are now properly visible
+- Remove all debug logs making the app lightweight for cpu and memory
 **Known Issues**
 - User visibility issues can be resolved by clearing app data
 
@@ -10,6 +11,14 @@
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound on connect and disconnect events
+
+---
+
+
+## v3.3.2 – November 7, 2025, 11:00 AM
+
+**New Features & Improvements**
+- Endpoint, conneted time cooldown
 
 ---
 
