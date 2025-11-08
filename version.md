@@ -1,8 +1,8 @@
 ## v3.3.4 – November 7, 2025, 06:00 PM
 
 **New Features & Improvements**
-- Fix : Logs are now properly visible
-- Remove all debug logs making the app lightweight for cpu and memory
+- Fix: Logs are now properly visible
+- Removed all debug logs to reduce CPU and memory usage
 **Known Issues**
 - User visibility issues can be resolved by clearing app data
 
@@ -18,7 +18,7 @@
 ## v3.3.2 – November 7, 2025, 11:00 AM
 
 **New Features & Improvements**
-- Endpoint, conneted time cooldown
+- Endpoint, connected-time cooldown
 
 ---
 
@@ -26,10 +26,10 @@
 ## v3.3.1 – November 5, 2025, 8:00 PM
 
 **New Features & Improvements**
-- Current device wifi signal info no places with detailed stats
-- Autometically remove speed limit when I am not Home
-- Wait for 60 sec to remove speed-limit but re-enforce time is 10 sec if I am Home
-- Footer added on sidebar @copyright
+- Current device WiFi signal info now displays detailed stats
+- Automatically remove speed limit when not home
+- Wait 60 sec to remove speed limit; re-enforcement time is 10 sec when home
+- Footer added on sidebar
 
 ---
 
