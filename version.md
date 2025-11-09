@@ -1,16 +1,24 @@
+## v3.3.6 – November 9, 2025, 08:00 PM
+
+**New Features & Improvements**
+- Added a beautiful clock widget
+**Known Issues**
+- User visibility issues can be resolved by clearing app data
+
+**Coming Soon**
+- Weather with tempareture inside the widget
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound on connect and disconnect events
+
+---
+
 ## v3.3.4 – November 7, 2025, 06:00 PM
 
 **New Features & Improvements**
 - Fix: Logs are now properly visible
 - Removed all debug logs to reduce CPU and memory usage
-**Known Issues**
-- User visibility issues can be resolved by clearing app data
-
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound on connect and disconnect events
 
 ---
 
