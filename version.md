@@ -1,8 +1,8 @@
-## v3.3.6 ~ 3.3.8 – November 9, 2025, 08:00 PM
+## v3.3.9 – November 9, 2025, 08:00 PM
 
 **New Features & Improvements**
-- Added a beautiful clock widget
-- Fix the widget layout
+- Added a sidebar weather screen
+- Remove the clocked widget for now , will add weather widget later
 **Known Issues**
 - User visibility issues can be resolved by clearing app data
 
@@ -12,6 +12,16 @@
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound on connect and disconnect events
+
+---
+
+
+## v3.3.6 ~ 3.3.8 – November 9, 2025, 08:00 PM
+
+**New Features & Improvements**
+- Added a beautiful clock widget
+- Fix the widget layout
+ound on connect and disconnect events
 
 ---
 
