@@ -1,7 +1,8 @@
-## v3.3.6 – November 9, 2025, 08:00 PM
+## v3.3.6 ~ 3.3.8 – November 9, 2025, 08:00 PM
 
 **New Features & Improvements**
 - Added a beautiful clock widget
+- Fix the widget layout
 **Known Issues**
 - User visibility issues can be resolved by clearing app data
 
