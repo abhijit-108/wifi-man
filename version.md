@@ -1,8 +1,11 @@
-## v3.3.9 – November 9, 2025, 08:00 PM
+## v3.4.0 – November 18, 2025, 11:00 AM
 
 **New Features & Improvements**
-- Added a sidebar weather screen
-- Remove the clocked widget for now , will add weather widget later
+- Weather Panel option added on Sidebar
+- Force clear app data from sidebar menu
+- Add Delsgade_Splash_Screen between 10:30pm to 5:00am
+- Disable Internet on '''Delsgade''' between 10:30pm ~ 5:00am
+- Now the app is downgrade capable
 **Known Issues**
 - User visibility issues can be resolved by clearing app data
 
@@ -12,6 +15,14 @@
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound on connect and disconnect events
+
+---
+
+## v3.3.9 – November 9, 2025, 08:00 PM
+
+**New Features & Improvements**
+- Added a sidebar weather screen
+- Remove the clocked widget for now , will add weather widget later
 
 ---
 
