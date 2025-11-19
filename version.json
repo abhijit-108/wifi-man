@@ -1,14 +1,11 @@
 {
   "latestVersionCode": 3,
-  "latestVersionName": "3.4.0",
+  "latestVersionName": "3.4.1",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2025-11-11",
+  "releaseDate": "2025-11-19",
   "changelog": [
     "Weather Panel option added on Sidebar.",
-    "Now the app is downgrade capable.",
-    "Force clear app data from sidebar menu.",
-    "Add Delsgade_Splash_Screen between 10:30pm to 5:00am.",
-    "Disable Internet on '''Delsgade''' between 10:30pm ~ 5:00am."
+    "Custom Nemes Are now in one file."
   ],
   "mandatory": false
 }
