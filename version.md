@@ -1,6 +1,7 @@
-## v3.4.1 ~v3.4.2 – November 19, 2025, 09:00 AM
+## v3.4.1 ~v3.4.3 – November 19, 2025, 09:00 AM
 
 **New Features & Improvements**
+- Notification is now more refined
 - Custom Nemes Are now in one file
 - Weather-panel is fixed
 - log activity are now more refined
