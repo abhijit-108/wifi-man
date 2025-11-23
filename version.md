@@ -1,10 +1,12 @@
-## v3.4.1 ~v3.4.3 – November 19, 2025, 09:00 AM
+## v3.4.4 – November 24, 2025, 01:00 AM
 
 **New Features & Improvements**
-- Notification is now more refined
-- Custom Nemes Are now in one file
-- Weather-panel is fixed
-- log activity are now more refined
+- Table rows are more slik
+- Snow Game efect between 10:00pm to 12:30am
+- Speed calcualtion more accurate 
+- About info page is more refined
+- Refresh relaxed to 3 sec
+
 **Known Issues**
 - User visibility issues can be resolved by clearing app data
 
@@ -14,6 +16,19 @@
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound on connect and disconnect events
+
+---
+
+
+## v3.4.1 ~v3.4.4 – November 19, 2025, 09:00 AM
+
+**New Features & Improvements**
+- Table rows are more slik
+- Snow Game efect between 10:00pm to 12:30am
+- Speed calcualtion more accurate 
+- Refresh relaxed to 3 sec
+
+
 
 ---
 
