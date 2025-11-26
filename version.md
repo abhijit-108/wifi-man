@@ -1,4 +1,4 @@
-## v3.4.5 – November 26, 2025, 11:00 PM
+## v3.4.6 – November 26, 2025, 11:00 PM
 
 **New Features & Improvements**
 - Table rows are more slik and redesigned for small screen
