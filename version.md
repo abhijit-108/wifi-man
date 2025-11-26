@@ -1,7 +1,7 @@
-## v3.4.4 – November 24, 2025, 01:00 AM
+## v3.4.5 – November 26, 2025, 11:00 PM
 
 **New Features & Improvements**
-- Table rows are more slik
+- Table rows are more slik and redesigned for small screen
 - Snow Game efect between 10:00pm to 12:30am
 - Speed calcualtion more accurate 
 - About info page is more refined
