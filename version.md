@@ -1,11 +1,8 @@
-## v3.4.6 – November 26, 2025, 11:00 PM
+## v3.4.7 – December 02, 2025, 08:30 PM
 
 **New Features & Improvements**
-- Table rows are more slik and redesigned for small screen
-- Snow Game efect between 10:00pm to 12:30am
-- Speed calcualtion more accurate 
-- About info page is more refined
-- Refresh relaxed to 3 sec
+- Station Name colur fixed in dark mode
+- Station name is now blank for dhcp-devices
 
 **Known Issues**
 - User visibility issues can be resolved by clearing app data
@@ -16,6 +13,19 @@
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound on connect and disconnect events
+
+---
+
+
+## v3.4.6 – November 26, 2025, 11:00 PM
+
+**New Features & Improvements**
+- Table rows are more slik and redesigned for small screen
+- Snow Game efect between 10:00pm to 12:30am
+- Speed calcualtion more accurate 
+- About info page is more refined
+- Refresh relaxed to 3 sec
+
 
 ---
 
