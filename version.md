@@ -1,4 +1,24 @@
-## v3.4.7 – December 02, 2025, 08:30 PM
+## v3.5.0 – December 08, 2025, 08:30 PM
+
+**New Features & Improvements**
+- New card design
+
+**Known Issues**
+- User visibility issues can be resolved by clearing app data
+
+**Coming Soon**
+- Weather with tempareture inside the widget
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound on connect and disconnect events
+
+---
+
+
+
+
+## v3.4.7-v3.4.9 – December 02, 2025, 08:30 PM
 
 **New Features & Improvements**
 - Station Name colur fixed in dark mode
