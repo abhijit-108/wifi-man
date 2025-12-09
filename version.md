@@ -1,7 +1,9 @@
-## v3.5.0 – December 08, 2025, 08:30 PM
+## v3.5.1 – December 09, 2025, 12:30 PM
 
 **New Features & Improvements**
-- New card design
+- Removed the voice command
+- Add status button to see SSID speeds
+- Optimized the app info screen
 
 **Known Issues**
 - User visibility issues can be resolved by clearing app data
@@ -16,6 +18,15 @@
 ---
 
 
+## v3.5.0 – December 08, 2025, 08:30 PM
+
+**New Features & Improvements**
+- New card design
+
+
+---
+
+
 
 
 ## v3.4.7-v3.4.9 – December 02, 2025, 08:30 PM
@@ -24,15 +35,6 @@
 - Station Name colur fixed in dark mode
 - Station name is now blank for dhcp-devices
 
-**Known Issues**
-- User visibility issues can be resolved by clearing app data
-
-**Coming Soon**
-- Weather with tempareture inside the widget
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound on connect and disconnect events
 
 ---
 
