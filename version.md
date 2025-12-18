@@ -1,9 +1,8 @@
-## v3.5.1 – December 09, 2025, 12:30 PM
+## v3.5.2~v3.5.6 – December 11, 2025, 01:30 PM
 
 **New Features & Improvements**
-- Removed the voice command
-- Add status button to see SSID speeds
-- Optimized the app info screen
+- Massive redesign 
+- 
 
 **Known Issues**
 - User visibility issues can be resolved by clearing app data
@@ -14,6 +13,16 @@
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound on connect and disconnect events
+
+---
+
+## v3.5.1 – December 09, 2025, 12:30 PM
+
+**New Features & Improvements**
+- Removed the voice command
+- Add status button to see SSID speeds
+- Optimized the app info screen
+
 
 ---
 
