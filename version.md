@@ -1,8 +1,8 @@
-## v3.5.2~v3.5.6 – December 11, 2025, 01:30 PM
+## v3.5.7 – December 25, 2025, 01:30 PM
 
 **New Features & Improvements**
-- Massive redesign 
-- 
+- Added one more endpoint
+- Add a login admin privilege
 
 **Known Issues**
 - User visibility issues can be resolved by clearing app data
@@ -13,6 +13,14 @@
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound on connect and disconnect events
+
+---
+
+
+## v3.5.2~v3.5.6 – December 11, 2025, 01:30 PM
+
+**New Features & Improvements**
+- Massive redesign 
 
 ---
 
