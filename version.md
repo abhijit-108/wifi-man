@@ -2,7 +2,7 @@
 
 **New Features & Improvements**
 - Added one more endpoint
-- Add a login admin privilege
+- Added login admin privilege
 
 **Known Issues**
 - User visibility issues can be resolved by clearing app data
