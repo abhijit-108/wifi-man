@@ -1,4 +1,4 @@
-## v3.5.7 – December 25, 2025, 01:30 PM
+## v3.5.9 – January 13, 2025, 09:30 PM
 
 **New Features & Improvements**
 - Added one more endpoint
