@@ -1,4 +1,4 @@
-## v3.6.2 – January 24, 2025, 01:30 PM
+## v3.6.3 – January 24, 2025, 09:30 PM
 
 **New Features & Improvements**
 - Device info card added
