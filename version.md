@@ -1,18 +1,31 @@
+## v3.6.2 – January 24, 2025, 01:30 PM
+
+**New Features & Improvements**
+- Only connected time numbers will be visible 
+- Offline device card now show first connected-time & disconneted-time
+- Also on the active-device card first conneted-time will be visible
+- Router endpoint links now are fixed
+- 
+
+**Known Issues**
+- no device then "force clear data" from sidebar
+
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound-system integration
+
+---
+
+
+
 ## v3.5.9 – January 13, 2025, 09:30 PM
 
 **New Features & Improvements**
 - Added one more endpoint
 - Added login admin privilege
 
-**Known Issues**
-- User visibility issues can be resolved by clearing app data
-
-**Coming Soon**
-- Weather with tempareture inside the widget
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound on connect and disconnect events
 
 ---
 
@@ -40,10 +53,7 @@
 **New Features & Improvements**
 - New card design
 
-
 ---
-
-
 
 
 ## v3.4.7-v3.4.9 – December 02, 2025, 08:30 PM
