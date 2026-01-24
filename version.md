@@ -1,11 +1,9 @@
 ## v3.6.2 – January 24, 2025, 01:30 PM
 
 **New Features & Improvements**
-- Only connected time numbers will be visible 
-- Offline device card now show first connected-time & disconneted-time
-- Also on the active-device card first conneted-time will be visible
-- Router endpoint links now are fixed
-- 
+- Device info card added
+- device-card dark mode fixed
+- Device card time range alligned
 
 **Known Issues**
 - no device then "force clear data" from sidebar
@@ -15,6 +13,21 @@
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound-system integration
+
+---
+
+
+
+
+## v3.6.2 – January 24, 2025, 01:30 PM
+
+**New Features & Improvements**
+- Only connected time numbers will be visible 
+- Offline device card now show first connected-time & disconneted-time
+- Also on the active-device card first conneted-time will be visible
+- Router endpoint links now are fixed
+- 
+
 
 ---
 
