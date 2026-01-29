@@ -1,9 +1,10 @@
-## v3.6.3 – January 24, 2025, 09:30 PM
+## v3.6.3 ~ v3.6.5  – January 31, 2026, 01:30 AM
 
 **New Features & Improvements**
 - Device info card added
 - device-card dark mode fixed
 - Device card time range alligned
+- App-info screen dark mode optimized
 
 **Known Issues**
 - no device then "force clear data" from sidebar
@@ -16,10 +17,7 @@
 
 ---
 
-
-
-
-## v3.6.2 – January 24, 2025, 01:30 PM
+## v3.6.2 – January 24, 2026, 01:30 PM
 
 **New Features & Improvements**
 - Only connected time numbers will be visible 
@@ -31,9 +29,7 @@
 
 ---
 
-
-
-## v3.5.9 – January 13, 2025, 09:30 PM
+## v3.5.9 – January 13, 2026, 09:30 PM
 
 **New Features & Improvements**
 - Added one more endpoint
@@ -41,7 +37,6 @@
 
 
 ---
-
 
 ## v3.5.2~v3.5.6 – December 11, 2025, 01:30 PM
 
@@ -60,14 +55,12 @@
 
 ---
 
-
 ## v3.5.0 – December 08, 2025, 08:30 PM
 
 **New Features & Improvements**
 - New card design
 
 ---
-
 
 ## v3.4.7-v3.4.9 – December 02, 2025, 08:30 PM
 

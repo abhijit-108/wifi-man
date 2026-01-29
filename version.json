@@ -1,11 +1,11 @@
 {
   "latestVersionCode": 3,
-  "latestVersionName": "3.6.3",
+  "latestVersionName": "3.6.5",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2026-01-24",
+  "releaseDate": "2026-01-30",
   "changelog": [
   "Device card has more optimized",
-  "Full changelogon sidebar"
+  "App info Screen-dark mode fixed"
   ],
   "mandatory": false
 }
