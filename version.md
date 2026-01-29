@@ -16,7 +16,6 @@
 - Sound-system integration
 
 ---
-
 ## v3.6.2 – January 24, 2026, 01:30 PM
 
 **New Features & Improvements**
@@ -28,7 +27,6 @@
 
 
 ---
-
 ## v3.5.9 – January 13, 2026, 09:30 PM
 
 **New Features & Improvements**
@@ -37,14 +35,12 @@
 
 
 ---
-
 ## v3.5.2~v3.5.6 – December 11, 2025, 01:30 PM
 
 **New Features & Improvements**
 - Massive redesign 
 
 ---
-
 ## v3.5.1 – December 09, 2025, 12:30 PM
 
 **New Features & Improvements**
@@ -61,7 +57,6 @@
 - New card design
 
 ---
-
 ## v3.4.7-v3.4.9 – December 02, 2025, 08:30 PM
 
 **New Features & Improvements**
@@ -70,8 +65,6 @@
 
 
 ---
-
-
 ## v3.4.6 – November 26, 2025, 11:00 PM
 
 **New Features & Improvements**
@@ -83,8 +76,6 @@
 
 
 ---
-
-
 ## v3.4.1 ~v3.4.4 – November 19, 2025, 09:00 AM
 
 **New Features & Improvements**
@@ -96,8 +87,6 @@
 
 
 ---
-
-
 ## v3.4.0 – November 18, 2025, 11:00 AM
 
 **New Features & Improvements**
@@ -108,7 +97,6 @@
 - Now the app is downgrade capable
 
 ---
-
 ## v3.3.9 – November 9, 2025, 08:00 PM
 
 **New Features & Improvements**
@@ -116,8 +104,6 @@
 - Remove the clocked widget for now , will add weather widget later
 
 ---
-
-
 ## v3.3.6 ~ 3.3.8 – November 9, 2025, 08:00 PM
 
 **New Features & Improvements**
@@ -126,7 +112,6 @@
 ound on connect and disconnect events
 
 ---
-
 ## v3.3.4 – November 7, 2025, 06:00 PM
 
 **New Features & Improvements**
@@ -134,16 +119,12 @@ ound on connect and disconnect events
 - Removed all debug logs to reduce CPU and memory usage
 
 ---
-
-
 ## v3.3.2 – November 7, 2025, 11:00 AM
 
 **New Features & Improvements**
 - Endpoint, connected-time cooldown
 
 ---
-
-
 ## v3.3.1 – November 5, 2025, 8:00 PM
 
 **New Features & Improvements**
@@ -153,15 +134,12 @@ ound on connect and disconnect events
 - Footer added on sidebar
 
 ---
-
 ## v3.2.9 – November 1, 2025, 6:00 PM
 
 **New Features & Improvements**
 - All endpoints are properly aligned
 
 ---
-
-
 ## v3.2.8 – October 31, 2025, 8:00 PM
 
 **New Features & Improvements**
@@ -175,7 +153,6 @@ ound on connect and disconnect events
 
 
 ---
-
 ## v3.2.7 – October 30, 2025, 8:00 PM
 
 **New Features**
@@ -193,14 +170,12 @@ ound on connect and disconnect events
 - Client-side validation for speed limits
 
 ---
-
 ## v3.2.6 – October 29, 2025, 1:15 PM
 
 **New Features**
 - Alliance control added with desktop mode forced
 
 ---
-
 ## v3.2.5 – October 28, 2025, 10:15 PM
 
 **Improvements**
@@ -208,14 +183,12 @@ ound on connect and disconnect events
 - Added more endpoints (default)
 
 ---
-
 ## v3.2.4 – October 27, 2025, 2:15 PM
 
 **Improvements**
 - Fixed the reload mode, now with button
 
 ---
-
 ## v3.2.3 – October 21, 2025, 8:15 PM
 
 **New Features**
@@ -225,21 +198,18 @@ ound on connect and disconnect events
 - Enhanced dark mode for about info
 
 ---
-
 ## v3.2.2 – October 21, 2025, 1:05 PM
 
 **Improvements**
 - Enhanced skipping and refresh logic for better reliability
 
 ---
-
 ## v3.2.0 – October 21, 2025, 11:31 AM
 
 **New Features**
 - WiFi signal strength indicator added next to app title
 
 ---
-
 ## v3.1.9 – October 21, 2025, 9:31 AM
 
 **New Features**
@@ -254,7 +224,6 @@ ound on connect and disconnect events
 - Clear app data if users aren't displaying correctly
 
 ---
-
 ## v3.1.8 – October 20, 2025, 11:10 AM
 
 **New Features**
@@ -267,14 +236,12 @@ ound on connect and disconnect events
 - Local voice calls over the same network
 
 ---
-
 ## v3.1.7 – October 19, 2025, 9:10 PM
 
 **Improvements**
 - Refreshed app icon design
 
 ---
-
 ## v3.1.6 – October 19, 2025, 12:10 AM
 
 **Improvements**
@@ -282,7 +249,6 @@ ound on connect and disconnect events
 - Fixed header positioning
 
 ---
-
 ## v3.1.5 – October 18, 2025, 1:10 AM
 
 **Improvements**
@@ -290,7 +256,6 @@ ound on connect and disconnect events
 - Enhanced WebView back navigation
 
 ---
-
 ## v3.1.4 – October 18, 2025, 12:10 AM
 
 **New Features**
@@ -307,7 +272,6 @@ ound on connect and disconnect events
 - Clean installation required for v3.1.3 and earlier versions
 
 ---
-
 ## v3.1.1 – October 17, 2025, 8:30 AM
 
 **New Features**
@@ -325,7 +289,6 @@ ound on connect and disconnect events
 - Refined user interface
 
 ---
-
 ## v2.0 – October 16, 2025, 12:10 AM
 
 **New Features**
@@ -337,7 +300,6 @@ ound on connect and disconnect events
 - First public release
 
 ---
-
 ## v1.0 – October 16, 2025, 1:10 AM
 
 **Initial Release**
