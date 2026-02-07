@@ -1,3 +1,24 @@
+v3.6.7 ~ v3.6.9 – February 7, 2026, 08:54 PM
+New Features & Improvements
+
+Router Not Supported UI with glowing indicator
+Manual endpoint entry removed (Auto-scan only)
+Speed Test & Data Usage accessible in unsupported mode
+Instant network scan on splash screen
+Optimized Quick Access button layout
+Status cards hidden when router unsupported
+Known Issues
+
+None reported
+Coming Soon
+
+Configurable Game Mode duration (approximately 1 hour)
+Temporary user kick functionality
+Local voice calls over the same network
+Sound-system integration
+
+
+
 ## v3.6.3 ~ v3.6.6  – January 31, 2026, 01:30 AM
 
 **New Features & Improvements**
