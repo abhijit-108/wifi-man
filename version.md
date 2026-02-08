@@ -1,23 +1,21 @@
-v3.6.7 ~ v3.6.9 – February 7, 2026, 08:54 PM
-New Features & Improvements
+## v3.7.1  – FEBRUARY 08, 2026, 12:30 PM
 
-Router Not Supported UI with glowing indicator
-Manual endpoint entry removed (Auto-scan only)
-Speed Test & Data Usage accessible in unsupported mode
-Instant network scan on splash screen
-Optimized Quick Access button layout
-Status cards hidden when router unsupported
-Known Issues
+**New Features & Improvements**
+- Auto-scan introduced
+- Re-arranged Quick Access button layout
+- Debug network log-info on sidebar
+- Status cards hidden when router unsupported
+- Speed Test & Data Usage accessible in unsupported mode
+- copy log-line on click and hold
+- 
 
-None reported
-Coming Soon
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound-system integration
 
-Configurable Game Mode duration (approximately 1 hour)
-Temporary user kick functionality
-Local voice calls over the same network
-Sound-system integration
-
-
+---
 
 ## v3.6.3 ~ v3.6.6  – January 31, 2026, 01:30 AM
 
@@ -27,16 +25,8 @@ Sound-system integration
 - Device card time range alligned
 - App-info screen dark mode optimized
 
-**Known Issues**
-- no device then "force clear data" from sidebar
-
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound-system integration
-
 ---
+
 ## v3.6.2 – January 24, 2026, 01:30 PM
 
 **New Features & Improvements**
