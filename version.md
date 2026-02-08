@@ -1,4 +1,4 @@
-## v3.7.1  – FEBRUARY 08, 2026, 12:30 PM
+## v3.7.1  – February 08, 2026, 09:30 PM
 
 **New Features & Improvements**
 - Auto-scan introduced
@@ -8,6 +8,7 @@
 - Speed Test & Data Usage accessible in unsupported mode
 - copy log-line on click and hold
 - Device popup are now alligned properly
+- Dark-mode display on debug screen fixed
 
 **Coming Soon**
 - Configurable Game Mode duration (approximately 1 hour)
