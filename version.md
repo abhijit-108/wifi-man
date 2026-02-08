@@ -7,7 +7,7 @@
 - Status cards hidden when router unsupported
 - Speed Test & Data Usage accessible in unsupported mode
 - copy log-line on click and hold
-- 
+- Device popup are now alligned properly
 
 **Coming Soon**
 - Configurable Game Mode duration (approximately 1 hour)
