@@ -1,4 +1,4 @@
-## v3.7.1  – February 08, 2026, 09:30 PM
+## v3.7.5  – February 09, 2026, 03:30 PM
 
 **New Features & Improvements**
 - Auto-scan introduced
