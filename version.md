@@ -1,4 +1,4 @@
-## v3.7.5  – February 11, 2026, 01:30 AM
+## v3.7.7  – February 14, 2026, 01:30 AM
 
 **New Features & Improvements**
 - Auto-scan introduced
@@ -11,6 +11,7 @@
 - Dark-mode display on debug screen fixed
 - App info popup height-width is now proper
 - Sidebar panel height aligned properly
+- Improved the look of the App-Info and Changelog popups
 
 **Coming Soon**
 - Configurable Game Mode duration (approximately 1 hour)
