@@ -1,4 +1,4 @@
-## v3.7.7  – February 14, 2026, 01:30 AM
+## v3.7.8  – February 18, 2026, 06:00 PM
 
 **New Features & Improvements**
 - Auto-scan introduced
@@ -12,6 +12,7 @@
 - App info popup height-width is now proper
 - Sidebar panel height aligned properly
 - Improved the look of the App-Info and Changelog popups
+- Added Colour code for two more station
 
 **Coming Soon**
 - Configurable Game Mode duration (approximately 1 hour)
