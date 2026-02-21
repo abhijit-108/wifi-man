@@ -1,3 +1,17 @@
+## v3.8.0  – February 20, 2026, 01:00 PM
+
+**New Features & Improvements**
+- Re-optimized the whole layout 
+
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound-system integration
+
+---
+
+
 ## v3.7.8  – February 18, 2026, 06:00 PM
 
 **New Features & Improvements**
@@ -14,11 +28,6 @@
 - Improved the look of the App-Info and Changelog popups
 - Added Colour code for two more station
 
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound-system integration
 
 ---
 

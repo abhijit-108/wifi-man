@@ -15,7 +15,6 @@ Delsgade WiFi Manager is an Android application designed for monitoring and mana
 - Dlink2640  (DLink-Dir 2640 A1)
 - Arjun Router  (TP-Link Archer C60 v3)
 - RE200  (TP-Link RE200 v4)
-- Custom endpoints  (e.g., 192.168.x.x)
 
 ## Usage
 1. Launch the app and configure your router endpoints in the settings.
