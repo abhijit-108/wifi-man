@@ -1,7 +1,9 @@
-## v3.8.0  – February 20, 2026, 01:00 PM
+## v3.8.2  – February 28, 2026, 09:00 PM
 
 **New Features & Improvements**
 - Re-optimized the whole layout 
+- Scan range reduced
+- App-lauch splash revamped
 
 **Coming Soon**
 - Configurable Game Mode duration (approximately 1 hour)
