@@ -1,3 +1,17 @@
+## v3.8.3 - March 4, 2026, 09:00 PM
+
+**New Features & Improvements**
+- Updated splash screen design
+- Improved splash loading transition
+
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound-system integration
+
+---
+
 ## v3.8.2 - February 28, 2026, 09:00 PM
 
 **New Features & Improvements**
@@ -5,11 +19,6 @@
 - Reduced scan range
 - Revamped app launch splash
 
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound-system integration
 
 ---
 

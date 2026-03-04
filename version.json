@@ -1,11 +1,11 @@
 {
   "latestVersionCode": 3,
-  "latestVersionName": "3.8.2",
+  "latestVersionName": "3.8.3",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2026-02-28",
+  "releaseDate": "2026-03-04",
   "changelog": [
-  "Scan range reduced",
-  "App-lauch splash revamped"
+    "Updated splash screen design",
+    "Improved splash loading transition"
   ],
   "mandatory": false
 }
