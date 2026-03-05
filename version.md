@@ -1,3 +1,10 @@
+## v3.8.5 - March 5, 2026, 10:17 AM
+
+**New Features & Improvements**
+- Splash version info now fixed
+
+---
+
 ## v3.8.3 - March 4, 2026, 09:00 PM
 
 **New Features & Improvements**
