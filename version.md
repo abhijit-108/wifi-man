@@ -2,6 +2,11 @@
 
 **New Features & Improvements**
 - Splash version info now fixed
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound-system integration
 
 ---
 
@@ -11,11 +16,6 @@
 - Updated splash screen design
 - Improved splash loading transition
 
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound-system integration
 
 ---
 
