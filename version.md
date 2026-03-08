@@ -1,12 +1,23 @@
-## v3.8.5 - March 5, 2026, 10:17 AM
+## v3.9.0 - March 9, 2026, 09:41 PM
 
 **New Features & Improvements**
-- Splash version info now fixed
+- Delay splash screen and device delay fixed
+- Debug logs are removed
+- Duplicate device entries fixed
+
+
 **Coming Soon**
 - Configurable Game Mode duration (approximately 1 hour)
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound-system integration
+
+---
+
+## v3.8.5 - March 5, 2026, 10:17 AM
+
+**New Features & Improvements**
+- Splash version info now fixed
 
 ---
 
