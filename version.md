@@ -1,16 +1,23 @@
+## v3.9.1 - March 10, 2026, 12:37 AM
+
+**New Features & Improvements**
+- Auto rotation issue fixed
+- Unsupported router issue fixed
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound-system integration
+
+
+---
+
 ## v3.9.0 - March 9, 2026, 09:41 PM
 
 **New Features & Improvements**
 - Delay splash screen and device delay fixed
 - Debug logs are removed
 - Duplicate device entries fixed
-
-
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound-system integration
 
 ---
 
