@@ -1,13 +1,25 @@
-## v3.9.1 - March 10, 2026, 12:37 AM
+
+## v3.9.2 - March 12, 2026, 11:00 AM
 
 **New Features & Improvements**
-- Auto rotation issue fixed
-- Unsupported router issue fixed
+- Redesigned the debug screen
+- Redesigned the App Info screen
+- Designed the signal strength indicator
+
 **Coming Soon**
 - Configurable Game Mode duration (approximately 1 hour)
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound-system integration
+
+---
+
+
+## v3.9.1 - March 10, 2026, 12:37 AM
+
+**New Features & Improvements**
+- Auto rotation issue fixed
+- Unsupported router issue fixed
 
 
 ---
