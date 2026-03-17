@@ -1,12 +1,13 @@
 {
   "latestVersionCode": 3,
-  "latestVersionName": "3.9.3",
+  "latestVersionName": "3.9.4",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2026-03-12",
+  "releaseDate": "2026-03-17",
   "changelog": [
-    "Redesign the debug screen",
-    "Also redesign the App Info screen",
-    "Design the signal strength indicator"
+    "Added Jio 5G backup internet mode on the sidebar",
+    "On jio 5G backup mode intternet up/down speed is limited to 100/500 Kbps ",
+    "Removed that unneccessary wifi-off splash screen & pop-up",
+    "Fixed icon visibility issue of the Terminal screen "
   ],
   "mandatory": false
 }

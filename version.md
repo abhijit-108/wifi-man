@@ -1,3 +1,13 @@
+## v3.9.4 - March 17, 2026, 07:00 PM
+
+**New Features & Improvements**
+- Added Jio 5G backup internet mode on the sidebar
+- On Jio 5G backup mode intternet up/down speed is limited to 100/500 Kbps
+- Removed that unneccessary wifi-off splash screen & pop-up
+- Fixed icon visibility issue of the Terminal screen 
+
+---
+
 
 ## v3.9.2 - March 12, 2026, 11:00 AM
 
