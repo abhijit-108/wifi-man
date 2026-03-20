@@ -1,3 +1,18 @@
+## v3.9.5 - March 20, 2026, 07:00 PM
+
+**New Features & Improvements**
+- Added Strict Game-Mode On Sidebar 
+- Fix the sidebar width
+- Extensive code cleanup
+
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound-system integration
+
+---
+
 ## v3.9.4 - March 17, 2026, 07:00 PM
 
 **New Features & Improvements**
@@ -8,7 +23,6 @@
 
 ---
 
-
 ## v3.9.2 - March 12, 2026, 11:00 AM
 
 **New Features & Improvements**
@@ -16,21 +30,13 @@
 - Redesigned the App Info screen
 - Designed the signal strength indicator
 
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound-system integration
-
 ---
-
 
 ## v3.9.1 - March 10, 2026, 12:37 AM
 
 **New Features & Improvements**
 - Auto rotation issue fixed
 - Unsupported router issue fixed
-
 
 ---
 
@@ -56,7 +62,6 @@
 - Updated splash screen design
 - Improved splash loading transition
 
-
 ---
 
 ## v3.8.2 - February 28, 2026, 09:00 PM
@@ -65,7 +70,6 @@
 - Re-optimized the entire layout
 - Reduced scan range
 - Revamped app launch splash
-
 
 ---
 
