@@ -1,12 +1,10 @@
 {
   "latestVersionCode": 4,
-  "latestVersionName": "4.0.0",
+  "latestVersionName": "4.0.1",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
   "releaseDate": "2026-03-21",
   "changelog": [
-    "Redesign with new UI",
-    "Manu bar added for fast access to spped-test",
-    "Setting to change speed test , router endpoints"
+    "Redesign with new UI"
   ],
   "mandatory": false
 }
