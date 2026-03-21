@@ -1,3 +1,17 @@
+## v4.0.0 - March 21, 2026, 05:55 PM
+
+**New Features & Improvements**
+- Redesign with new UI
+- Manu bar added for fast access to spped-test
+- Setting to change speed test , router endpoints
+
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound-system integration
+---
+
 ## v3.9.5 - March 20, 2026, 07:00 PM
 
 **New Features & Improvements**
@@ -5,11 +19,6 @@
 - Fix the sidebar width
 - Extensive code cleanup
 
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound-system integration
 
 ---
 
