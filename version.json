@@ -1,10 +1,12 @@
 {
   "latestVersionCode": 4,
-  "latestVersionName": "4.0.2",
+  "latestVersionName": "4.0.4",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2026-03-21",
+  "releaseDate": "2026-03-24",
   "changelog": [
-    "Device sorting fixed"
+    "Added device grouping",
+    "Make the manu bar more slick",
+    "Remake the settings menu options"
   ],
   "mandatory": false
 }

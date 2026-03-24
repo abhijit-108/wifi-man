@@ -1,14 +1,23 @@
-## v4.0.2 - March 22, 2026, 09:00 PM
+## v4.0.4 - March 25, 2026, 09:00 PM
 
 **New Features & Improvements**
-- Device sorting fixed
-
+- Added device grouping
+- Make the manu bar more slick
+- Remake the settings menu options
 
 **Coming Soon**
 - Configurable Game Mode duration (approximately 1 hour)
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound-system integration
+---
+
+## v4.0.2 - March 22, 2026, 09:00 PM
+
+**New Features & Improvements**
+- Device sorting fixed
+
+
 ---
 
 ## v4.0.0 - March 21, 2026, 09:00 PM
