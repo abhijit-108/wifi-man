@@ -1,3 +1,17 @@
+## v4.0.5 - March 31, 2026, 09:00 PM
+
+**New Features & Improvements**
+- Added 'Reupdate' button on the sidebar
+
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound-system integration
+
+
+---
+
 ## v4.0.4 - March 25, 2026, 09:00 PM
 
 **New Features & Improvements**
@@ -5,11 +19,6 @@
 - Make the manu bar more slick
 - Remake the settings menu options
 
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound-system integration
 ---
 
 ## v4.0.2 - March 22, 2026, 09:00 PM
