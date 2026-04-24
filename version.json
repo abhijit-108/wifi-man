@@ -1,10 +1,11 @@
 {
   "latestVersionCode": 4,
-  "latestVersionName": "4.0.5",
+  "latestVersionName": "4.0.7",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2026-03-30",
+  "releaseDate": "2026-04-25",
   "changelog": [
-    "Added 'Reupdate' button on the sidebar"
+    "Added a new hostname",
+    "Splash screen credit updated"
   ],
   "mandatory": false
 }

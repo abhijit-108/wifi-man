@@ -1,13 +1,23 @@
-## v4.0.5 - March 31, 2026, 09:00 PM
+
+## v4.0.7 - April 25, 2026, 08:30 PM
 
 **New Features & Improvements**
-- Added 'Reupdate' button on the sidebar
+- Added a new hostname
+- Updated splash screen credit
 
 **Coming Soon**
 - Configurable Game Mode duration (approximately 1 hour)
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound-system integration
+
+---
+
+## v4.0.5 - March 31, 2026, 09:00 PM
+
+**New Features & Improvements**
+- Added 'Reupdate' button on the sidebar
+
 
 
 ---
