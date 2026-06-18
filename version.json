@@ -1,11 +1,14 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionName": "4.0.7",
+  "latestVersionCode": 5,
+  "latestVersionName": "5.0.1",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2026-04-25",
+  "releaseDate": "2026-06-18",
   "changelog": [
-    "Added a new hostname",
-    "Splash screen credit updated"
+    "Added new SMB FILES tab with dynamic routing",
+    "Completely redesigned the sidebar with a premium glassmorphic UI",
+    "Added a new settings option to customize the default SMB start tab",
+    "Added a dynamic update notification badge to the sidebar footer",
+    "Removed the 'Force Clear Data' option for a cleaner experience"
   ],
   "mandatory": false
 }

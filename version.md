@@ -1,15 +1,26 @@
-
-## v4.0.7 - April 25, 2026, 08:30 PM
+## v5.0.1 - June 18, 2026, 07:48 PM
 
 **New Features & Improvements**
-- Added a new hostname
-- Updated splash screen credit
+- Replaced the "Router" tab with a new "SMB FILES" tab featuring dynamic routing
+- Redesigned the sidebar with a premium glassmorphic UI and deep navy gradient
+- Added a settings option to customize the default start tab for the SMB view (Dashboard, Movies, or Anime)
+- Added a dynamic "New Version Available" badge to the sidebar footer
+- Removed the "Force Clear Data" option to streamline the app experience
 
 **Coming Soon**
 - Configurable Game Mode duration (approximately 1 hour)
 - Temporary user kick functionality
 - Local voice calls over the same network
 - Sound-system integration
+
+---
+
+
+## v4.0.7 - April 25, 2026, 08:30 PM
+
+**New Features & Improvements**
+- Added a new hostname
+- Updated splash screen credit
 
 ---
 
