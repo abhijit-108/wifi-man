@@ -1,3 +1,22 @@
+## v5.0.2 - June 24, 2026, 10:41 PM
+
+**New Features & Improvements**
+- Swapped Router tab for SMB FILES in bottom navigation
+- Redesigned sidebar with a premium glassmorphic layout and vibrant RSSI stats
+- Changed sidebar stats to show WiFi Channel instead of duplicate frequency details
+- Added settings to customize Default Start Tab (Dashboard, Movies, or Anime)
+- Fixed SMB explorer crashes from stale/closed DiskShare handles
+- Fixed bottom nav Dashboard tab navigation when default start tab is set to Movies/Anime
+
+
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound-system integration
+
+---
+
 ## v5.0.1 - June 18, 2026, 07:48 PM
 
 **New Features & Improvements**
@@ -7,11 +26,7 @@
 - Added a dynamic "New Version Available" badge to the sidebar footer
 - Removed the "Force Clear Data" option to streamline the app experience
 
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound-system integration
+
 
 ---
 

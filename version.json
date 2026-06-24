@@ -1,14 +1,15 @@
 {
   "latestVersionCode": 5,
-  "latestVersionName": "5.0.1",
+  "latestVersionName": "5.0.2",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2026-06-18",
+  "releaseDate": "2026-06-24",
   "changelog": [
-    "Added new SMB FILES tab with dynamic routing",
-    "Completely redesigned the sidebar with a premium glassmorphic UI",
-    "Added a new settings option to customize the default SMB start tab",
-    "Added a dynamic update notification badge to the sidebar footer",
-    "Removed the 'Force Clear Data' option for a cleaner experience"
+    "Swapped Router tab for SMB FILES in bottom navigation",
+    "Redesigned sidebar with a premium glassmorphic layout and vibrant RSSI stats",
+    "Changed sidebar stats to show WiFi Channel instead of duplicate frequency details",
+    "Added settings to customize Default Start Tab (Dashboard, Movies, or Anime)",
+    "Fixed SMB explorer crashes from stale/closed DiskShare handles",
+    "Fixed bottom nav Dashboard tab navigation when default start tab is set to Movies/Anime"
   ],
   "mandatory": false
 }
