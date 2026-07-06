@@ -1,14 +1,10 @@
 {
   "latestVersionCode": 5,
-  "latestVersionName": "5.0.8",
+  "latestVersionName": "5.1.0",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2026-06-28",
+  "releaseDate": "2026-07-06",
   "changelog": [
-    "Extended universal sidebar navigation drawer to SMB explorer screens",
-    "Added stats card to SMB sidebar displaying real-time WiFi metrics",
-    "Added Home button inside the sidebar drawer header to return to main dashboard",
-    "Left-aligned the app title on the main screen toolbar",
-    "Integrated glassmorphic NAS storage capacity box (592/931 GB) on main and SMB screens"
+    "Speed test screen more relevent now"
   ],
   "mandatory": false
 }
