@@ -1,10 +1,10 @@
 {
   "latestVersionCode": 5,
-  "latestVersionName": "5.1.0",
+  "latestVersionName": "5.1.1",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
   "releaseDate": "2026-07-06",
   "changelog": [
-    "Speed test screen more relevent now"
+    "Background notification as toggle"
   ],
   "mandatory": false
 }
