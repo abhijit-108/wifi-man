@@ -1,3 +1,25 @@
+## v5.2.1 - July 26, 2026
+
+**New Features & Improvements**
+- Added persistent background Wi-Fi Monitor Foreground Service (continuous 15s station polling when app is closed)
+- Added Background Wi-Fi Monitor dashboard toggle switch with automatic boot recovery restart
+- Added high-priority heads-up system notifications for instant device connection alerts
+- Formatted connection notifications to `[Device Name] Connected` with details `IP: [Address] | Total [X] Times`
+- Integrated live system log parsing (`calculateConnectCountFromLogs`) to accurately match in-app connection counts
+- Redesigned station list cards: 16dp rounded corners, soft pastel avatar containers, network accent bars, and pure IP subtitles
+- Redesigned bottom control cards (Guest Mode, Full Speed, Wi-Fi Monitor) into sleek, compact layouts with clean white backgrounds and pastel icon tints
+- Increased station card typography sizes (IP subtitle `13.5sp`, uptime `12.5sp`, total data `13.5sp`) for enhanced legibility
+- Fixed notification small icon to use official app vector icon (`ic_notification_app_icon`)
+- Enforced strict toggle state checking so no notifications trigger when the monitor switch is OFF
+
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound-system integration
+
+---
+
 ## v5.0.2 - June 24, 2026, 10:41 PM
 
 **New Features & Improvements**
@@ -8,12 +30,6 @@
 - Fixed SMB explorer crashes from stale/closed DiskShare handles
 - Fixed bottom nav Dashboard tab navigation when default start tab is set to Movies/Anime
 
-
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound-system integration
 
 ---
 

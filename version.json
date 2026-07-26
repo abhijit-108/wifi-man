@@ -1,10 +1,12 @@
 {
   "latestVersionCode": 5,
-  "latestVersionName": "5.1.1",
+  "latestVersionName": "5.2.1",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2026-07-06",
+  "releaseDate": "2026-07-26",
   "changelog": [
-    "Background notification as toggle"
+    "Persistent Background Wi-Fi Monitor Service & dashboard toggle",
+    "Heads-up device connection alerts with live log connection counting",
+    "Redesigned dashboard cards with pastel avatar icons and compact control controls"
   ],
   "mandatory": false
 }
