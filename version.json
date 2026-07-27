@@ -1,12 +1,14 @@
 {
   "latestVersionCode": 5,
-  "latestVersionName": "5.2.1",
+  "latestVersionName": "5.3.1",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2026-07-26",
+  "releaseDate": "2026-07-27",
   "changelog": [
-    "Persistent Background Wi-Fi Monitor Service & dashboard toggle",
-    "Heads-up device connection alerts with live log connection counting",
-    "Redesigned dashboard cards with pastel avatar icons and compact control controls"
+    "Permanent Cyber Dark Theme across XML Dashboard & SMB Jetpack Compose UI",
+    "Redesigned Cyber station cards with vivid icon chips & dark slate borders",
+    "Redesigned horizontal Background Wi-Fi Monitor widget & custom toggle styling",
+    "Floating bottom navigation bar with active purple capsule indicator",
+    "Improved dark mode contrast for station data MB/GB usage text"
   ],
   "mandatory": false
 }

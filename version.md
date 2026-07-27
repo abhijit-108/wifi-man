@@ -1,3 +1,26 @@
+## v5.3.1 - July 27, 2026
+
+**New Features & Improvements**
+- Enforced permanent Cyber Dark Mode across the entire app (XML Dashboard & SMB Compose UI), ignoring system light mode overrides
+- Applied deep space navy background (`#090C15`) and dark blue-slate card surfaces (`#111625`) with subtle border strokes (`#1C253B`)
+- Redesigned station cards with vibrant dark avatar chips (purple, gold, indigo) and styled online/offline status displays
+- Restored dynamic superscript RSSI signal text (`-57`) in neon purple (`#A855F7`) next to the main header title
+- Extended the Cyber Dark theme to SMB Files Jetpack Compose UI (`OpenWrtSmbTheme`, `Glassmorphism`, `Color.kt`)
+- Redesigned Background Wi-Fi Monitor widget into a clean horizontal card row with active status indicators and purple toggles
+- Reconstructed the bottom navigation bar with a floating dark container and active purple capsule highlights (`#261B4E` / `#A855F7`)
+- Enhanced text legibility by fixing dark mode contrast for station MB/GB data usage values
+
+**Coming Soon**
+- Configurable Game Mode duration (approximately 1 hour)
+- Temporary user kick functionality
+- Local voice calls over the same network
+- Sound-system integration
+
+---
+
+
+
+
 ## v5.2.1 - July 26, 2026
 
 **New Features & Improvements**
@@ -12,11 +35,6 @@
 - Fixed notification small icon to use official app vector icon (`ic_notification_app_icon`)
 - Enforced strict toggle state checking so no notifications trigger when the monitor switch is OFF
 
-**Coming Soon**
-- Configurable Game Mode duration (approximately 1 hour)
-- Temporary user kick functionality
-- Local voice calls over the same network
-- Sound-system integration
 
 ---
 
