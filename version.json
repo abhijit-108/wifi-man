@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 5,
   "latestVersionName": "5.3.1",
-  "apkUrl": "https://raw.githubusercontent.com/abhijit-108/DSG-PLayIT/main/app-debug.apk",
+  "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
   "releaseDate": "2026-07-27",
   "changelog": [
     "Permanent Cyber Dark Theme across XML Dashboard & SMB Jetpack Compose UI",
