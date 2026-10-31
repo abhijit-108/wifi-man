@@ -1,14 +1,10 @@
 {
   "latestVersionCode": 5,
-  "latestVersionName": "5.3.1",
+  "latestVersionName": "5.3.2",
   "apkUrl": "https://github.com/abhijit-108/wifi-man/raw/refs/heads/main/app-debug.apk",
-  "releaseDate": "2026-07-27",
+  "releaseDate": "2026-10-31",
   "changelog": [
-    "Permanent Cyber Dark Theme across XML Dashboard & SMB Jetpack Compose UI",
-    "Redesigned Cyber station cards with vivid icon chips & dark slate borders",
-    "Redesigned horizontal Background Wi-Fi Monitor widget & custom toggle styling",
-    "Floating bottom navigation bar with active purple capsule indicator",
-    "Improved dark mode contrast for station data MB/GB usage text"
+    "App size reduced to 30 MB"
   ],
   "mandatory": false
 }
