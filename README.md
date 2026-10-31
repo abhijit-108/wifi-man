@@ -46,7 +46,7 @@
 
 ---
 
-## 🍱 Bento Feature Grid
+## ✨ Key Features
 
 <table>
   <tr>
@@ -112,7 +112,7 @@ graph LR
 
 ---
 
-## 📋 Bento Changelog Cards
+## 📋 Changelog
 
 <table>
   <tr>
