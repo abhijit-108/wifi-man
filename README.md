@@ -1,75 +1,84 @@
-# 📡 Delsgade WiFi Manager
+<div align="center">
+
+# 🗂️ WiFi-Man
+### The Intelligent Local Network Dashboard & SMB Suite for Android
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhijit-108/wifi-man/main/app_logo.png" alt="Delsgade WiFi Manager Logo" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/abhijit-108/wifi-man/main/app_logo.png" width="96" height="96" alt="WiFi-Man Icon" style="border-radius: 24px;" />
 </p>
 
-<p align="center">
-  <strong>Real-time WiFi station monitor, persistent device connection tracker, router log parser, and SMB file browser for Android. Featuring Cyber Dark glassmorphic design and multi-router endpoint management.</strong>
-</p>
+[![Version](https://img.shields.io/badge/v5.3.1-Latest%20Release-7C3AED?style=flat-square)](https://raw.githubusercontent.com/abhijit-108/wifi-man/main/app-debug.apk)
+[![Android](https://img.shields.io/badge/Android-8.0%2B-10B981?style=flat-square&logo=android&logoColor=white)](https://github.com/abhijit-108/wifi-man)
+[![Design](https://img.shields.io/badge/UI-Cyber%20Dark%20M3-3B82F6?style=flat-square)](https://github.com/abhijit-108/wifi-man)
+[![License](https://img.shields.io/badge/License-Personal%20Use-64748B?style=flat-square)](https://github.com/abhijit-108/wifi-man)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-v5.3.1-9D4EDD?style=for-the-badge" alt="Version" />
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
-  <img src="https://img.shields.io/badge/Theme-Cyber_Dark-090C15?style=for-the-badge" alt="Cyber Dark" />
-  <img src="https://img.shields.io/badge/UI-Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose" />
-  <img src="https://img.shields.io/badge/Engine-Foreground_Monitor-FF007F?style=for-the-badge" alt="Monitor" />
-</p>
+<br/>
+
+</div>
 
 ---
 
-## ✨ Features
+## 🍱 Feature Grid
 
-- **Real-Time Station Monitoring**: Live station feed showing active clients, RSSI signal strength (`-dBm`), IP addresses, uptime, and real-time MB/GB data counters.
-- **Background Wi-Fi Monitor Service**: Persistent 15-second polling foreground service with boot recovery and heads-up push notifications for device connections.
-- **Multi-Router Endpoint Management**: Centralized monitoring across multiple routers and repeaters (TP-Link Archer AX23, C60, D-Link DIR-2640, and RE200).
-- **Cyber Dark Glassmorphic UI**: Deep space navy (`#090C15`) and dark blue-slate palette with neon purple accents (`#A855F7`), translucent cards, and a floating capsule navigation bar.
-- **Router Log Parser**: Live parsing and display of router activity logs with color-coded event filtering and historical connection tracking.
-- **SMB File Explorer**: Jetpack Compose-powered local network file manager with dynamic navigation for Movies, Anime, and shared storage.
-- **Smart Game Mode**: QoS and polling rate optimization mode scheduled between 10:00 PM and 12:30 AM with on-screen indicators.
-- **In-App Updater**: Direct GitHub version checks (`version.json`) with an interactive changelog viewer and APK updater.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📶 Live Station Intelligence</h3>
+      <p>Instantaneous scanning of every device authenticated to your access point. Tracks signal amplitude (dBm), MAC identities, private IPs, and dynamic MB/GB throughput.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ 15s Foreground Sentinel</h3>
+      <p>An untethered foreground service polling every 15 seconds. Emits high-priority heads-up banners on fresh connections with lifetime connect counts.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Cyber Dark Glassmorphism</h3>
+      <p>Engineered with an AMOLED deep space navy canvas (<code>#090C15</code>), slate card frames (<code>#111625</code>), and floating capsule navigation highlights.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📁 Compose SMB File Streamer</h3>
+      <p>Integrated Samba client written in Jetpack Compose. Effortlessly browse and stream high-bitrate Movies and Anime stored on your NAS / router disk.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕹️ Scheduled Game Mode</h3>
+      <p>Automatically triggers during prime gaming hours (10:00 PM – 12:30 AM). Maximizes connection stability and surfaces latency-critical alerts.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔄 OTA GitHub Updater</h3>
+      <p>Automated version detection against <code>version.json</code>. Delivers instant changelog previews and one-tap in-app APK upgrades.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Compatibility
+## 🧩 Supported Router Endpoints
 
-- **UI Framework**: Custom Cyber Dark XML Dashboard + Jetpack Compose (SMB Files & Glassmorphic Surfaces)
-- **Background Tasks**: Android Foreground Service + AlarmManager Boot Recovery
-- **Network & Storage**: Router REST / Web API Polling, Syslog Parsing Engine, SMB/Samba Protocol
-- **Supported Hardware**: TP-Link Archer AX23 v1, D-Link DIR-2640 A1, TP-Link Archer C60 v3, TP-Link RE200 v4
-- **Target OS**: Android 8.0 (API 26) – Android 15+
-
----
-
-## 📥 Download
-
-Download the latest APK directly from the repository:
-
-- 📦 **[Download latest app-debug.apk](https://raw.githubusercontent.com/abhijit-108/wifi-man/main/app-debug.apk)**
-
+```mermaid
+graph LR
+    App[WiFi-Man Client] --> AX23[TP-Link AX23 v1]
+    App --> DLink[D-Link DIR-2640 A1]
+    App --> C60[TP-Link Archer C60 v3]
+    App --> RE200[TP-Link RE200 v4]
+    AX23 -. Logs & Stations .-> App
+    DLink -. Throughput Telemetry .-> App
+```
 
 ---
 
-## 📋 Changelog
+## 🚀 Quick Download
 
-### `v 5.3.1`
-- **Permanent Cyber Dark Theme**: Enforced deep space navy (`#090C15`) and dark blue-slate surfaces (`#111625`) across XML Dashboard and SMB Compose UI.
-- **Redesigned Station Cards**: High-contrast avatar chips (purple, gold, indigo), dark slate borders, and enhanced MB/GB data readout legibility.
-- **Horizontal Monitor Widget**: Redesigned background Wi-Fi monitor card row with active indicators and custom purple toggle switch.
-- **Floating Bottom Navigation**: Sleek dark capsule navigation container with neon purple pill highlight (`#261B4E` / `#A855F7`).
-- **Dynamic RSSI Header**: Superscript RSSI signal indicator in purple accent beside the main title.
+| Asset | Details | Direct Link |
+| :--- | :--- | :--- |
+| **Production APK** | `v5.3.1` Compiled Debug Binary | [📥 Download `app-debug.apk`](https://raw.githubusercontent.com/abhijit-108/wifi-man/main/app-debug.apk) |
+| **Full Project Bundle** | Android Studio 7z Project Tree | [📦 Download Project Archive](https://raw.githubusercontent.com/abhijit-108/wifi-man/main/Android%20Studio%20Wifi%20Man.7z) |
+| **Release Manifest** | JSON Update Schema | [📄 Inspect `version.json`](https://raw.githubusercontent.com/abhijit-108/wifi-man/main/version.json) |
 
-### `v 5.2.1`
-- **Persistent Wi-Fi Monitor Service**: Continuous 15-second station polling foreground service running even when the app is minimized.
-- **Heads-Up Notifications**: High-priority alert banner triggering on device connect with IP and historical connection count.
-- **Log Parsing Engine**: Integrated `calculateConnectCountFromLogs` for live router log matching.
-- **Station Card Polishing**: 16dp rounded corners, network accent bars, and increased typography sizes for enhanced legibility.
+---
 
-### `v 5.0.2`
-- **SMB Files Integration**: Added SMB Files tab into bottom navigation with dynamic routing.
-- **Glassmorphic Sidebar**: Redesigned sidebar with gradient surfaces, WiFi Channel indicator, and default start tab selection.
-- **Stability Fixes**: Fixed SMB explorer crashes from stale/closed DiskShare handles.
-
-### `v 5.0.1`
-- **Dynamic Router Routing**: Replaced legacy router tab with SMB Files browser.
-- **Update Checker**: Added dynamic "New Version Available" badge in sidebar footer powered by `version.json`.
+<div align="center">
+  <sub>Developed by <b>Abhijit</b> • Crafted with Jetpack Compose & Cyber Dark Architecture</sub>
+</div>
